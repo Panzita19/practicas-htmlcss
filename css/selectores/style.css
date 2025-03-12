@@ -1,0 +1,10 @@
+.sida /*clase (buena practica hazlo asi*/  {
+    color: red;
+}
+#waos /*identificador, solo un elemento en la pagina*/  {
+    color: blue;
+}
+p /*cualquier cosa que se llame asi se lleva estas caracteristicas*/ {
+    font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+    color: brown;
+}

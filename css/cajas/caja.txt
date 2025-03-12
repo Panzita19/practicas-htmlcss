@@ -1,0 +1,4 @@
+Contenido de la caja
+Padding (relleno de la caja)
+Border (borde de la caja)
+Margin (separa el elemento de los otros elementos)
