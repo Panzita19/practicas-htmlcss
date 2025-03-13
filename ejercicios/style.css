@@ -1,0 +1,26 @@
+.tarjeta{
+    background: coral;
+    font-family:sans-serif;
+    text-align: center;
+    width: 500px;
+    margin: auto;
+}
+
+.titulo{
+    color: rgb(129, 19, 50);
+    padding-top: 20px;
+}
+
+.descripcion{
+    color: rgb(36, 52, 129);
+    margin-top: 10px;
+}
+
+.paja{
+    background: rgba(235, 197, 59, 0.579);
+    margin-top: 30px;
+    text-align: justify;
+    text-align: justify;
+    padding: 30px;
+
+}

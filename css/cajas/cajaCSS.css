@@ -1,15 +1,76 @@
-
+/*modelo de caja*/
 h1{
-   background: blue; 
-   width: 300px;
-   height: 20px;
+    background: blue; 
+    width: 300px;
+    height: 20px;
 }
 
-input{
-
+/*input{
     width: 90%;
 }
 
 form{
     width: 300;
+} 
+
+/*padding y marging*/
+
+.formulario{
+    background: red;
+    padding: 30px 20px ;
+    margin: 20px;
+}
+
+.formularioInput{
+    background: green;
+    color: black;
+    padding: 5px 15px;
+    margin-right: 20px;
+}
+
+.formularioSubmit{
+    background: yellow;
+    text-transform: uppercase;
+    width: 100px;
+}
+
+.caja1{
+    background: cornflowerblue;
+    width: 100px;
+    height: 100px;
+    margin: 30px;
+}
+
+.caja2{
+    background: chartreuse;
+    width: 150px;
+    height: 100px;
+    margin-top: 10px;
+    margin-left: 50px;
+    margin-bottom: 20px;
+}
+
+/*Bordes*/
+
+.margen{
+    border: 10px solid black;
+    border-radius: 10px;
+    margin: auto;
+    background: chocolate;
+    text-align: center;
+    padding: 20px;
+    font-size: 100px;
+    margin-bottom: 20px;
+}
+
+.input{
+    margin: 5px;
+    padding: 5px;
+    border: none;
+    border-bottom: 1px solid grey;
+    background: lightgray;
+}
+
+.transparente{
+    background: transparent;
 }
