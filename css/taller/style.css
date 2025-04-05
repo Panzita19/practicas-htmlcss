@@ -1,13 +1,39 @@
-.sida {
-    color: red;
-}
-#waos {
-    color: blue;
-}
-p{
-    font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+aside {
+    width: 40%;
+    height: 800px;
+    border-left: 1px solid black;
+    background-color:lightgray;
+    text-align: center;
+    float: right;
 }
 
-aside>p{
-    margin: 0.5rem;
+.space{
+    text-align: left;
+    word-wrap: break-word;
 }
+
+.center{
+    text-align: center;
+    margin-right: 10px;
+    text-transform:capitalize ;
+}
+
+.nav{
+    color: blue;
+}
+
+.foto{
+    height: 300px;
+    width: 300px;
+}
+
+footer{
+    text-align: center;
+    padding: 1rem 2rem;
+}
+
+.paragraph{
+    text-align: left;
+    word-wrap: break-word;
+}
+
