@@ -1,0 +1,67 @@
+.body{
+    background:url(/fotos/2.jpeg) top / cover fixed
+}
+
+.box{
+    width: 100%;
+    height: 200px;
+    margin: 20px;
+    background-image: url(/fotos/10.jpeg);
+    background-size: cover;
+    position: absolute;
+    margin: 0;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-attachment: fixed;
+}
+
+.gradient{
+    width: 100%;
+    height: 400px;
+    background-color: aquamarine;
+    background: linear-gradient(#34a9d3,transparent);
+    margin: 0;
+    border: 0;
+}
+
+.gradientTest{
+    width: 300px;
+    height: 400px;
+    background:radial-gradient(transparent,#000);
+    text-align: center;
+    margin: 0;
+    color: white;
+    border-radius: 7px;
+    margin: auto;
+    margin-top: 20px;
+    border-top: 6px solid #900;
+}
+
+.img{
+    width: 300px;
+    height: 300px;
+}
+
+.shadow{
+    width:300px;
+    background-color: #e2e2e2;
+    margin: auto;
+    margin-top: 20px;
+    box-shadow:0 0 40px 0 #000 ;
+    padding-top: 5px;
+    padding: 20px;
+    box-sizing: border-box;
+    text-align: center;
+    color: #444;
+}
+
+.p{
+    text-align: justify;
+    line-height: 1.4;
+    font-size: 16px;
+}
+.imgRadius{
+    width: 100px;
+    border-radius: 100%;
+}
